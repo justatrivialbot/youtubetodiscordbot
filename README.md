@@ -52,3 +52,8 @@
 
 * The patrolvideos loop isn't terribly robust. If your internet connection dies or it encounters an error it will stop dead, requiring a rebooting of the script.
 * I would eventually like to convert it to a background task but I don't know how to do that yet. It will happen once I chew on the discord.py docs a bit more.
+
+## Contact
+
+* For ease of tracking open a new issue if you have problems.
+* Otherwise contact roolet#3331 on discord (Also known as TPIM in the r/Hermitcraft Discord server.)
