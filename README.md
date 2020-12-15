@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # The r/Hermitcraft Discord Videos Bot
 
 ## Features
@@ -113,4 +112,3 @@
 
 * For ease of tracking open a new issue if you have problems.
 * Otherwise contact roolet#3331 on discord (Also known as TPIM in the r/Hermitcraft Discord server.)
->>>>>>> 4f4495ec3a8542beb18ca55c279652518c1e7922
